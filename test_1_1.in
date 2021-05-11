@@ -1,0 +1,20 @@
+#input
+    2
+#output
+    91
+    99
+#endtest
+
+#input
+    3
+#output
+    913
+    993
+#endtest
+
+#input
+    4
+#output
+    9901
+    9999
+#endtest

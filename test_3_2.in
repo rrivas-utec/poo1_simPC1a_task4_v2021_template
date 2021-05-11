@@ -1,0 +1,29 @@
+#input
+    1100
+    1001
+#output
+    1
+#endtest
+
+#input
+    10011001
+    01100110
+#output
+    4
+#endtest
+
+#input
+    110011
+    010111
+#output
+    1
+#endtest
+
+
+#input
+    110011000111
+    010111101010
+#output
+    3
+#endtest
+

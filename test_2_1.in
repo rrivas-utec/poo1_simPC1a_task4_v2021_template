@@ -1,0 +1,20 @@
+#input
+    2
+    4
+#output
+    7
+#endtest
+
+#input
+    11
+    13
+#output
+    47
+#endtest
+
+#input
+    7
+    11
+#output
+    49
+#endtest
